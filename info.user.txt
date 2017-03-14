@@ -1,0 +1,17 @@
+NAME:Gilbert Montagnier
+PHONE:0621106127
+ADDRESS:8 allée Cassard
+COMPLEMENT:Appartement 13
+CITY:NANTES
+COUNTRY:France
+ZIPCODE:44000
+CHOOSENMARKET:https://drive.intermarche.com/Home
+CONNEXIONURL:https://drive.intermarche.com/Connexion
+DECONNEXIONURL:https://drive.intermarche.com/Deconnexion
+ADDINGITEM:https://drive.intermarche.com/Plus
+REMOVINGITEM:https://drive.intermarche.com/Moins
+MAIL:pierremariedanieau@gmail.com
+PASSWORD:lolballec
+CARDNUMBER:12345678900987654321
+CARDSAFETY:123
+EXPIREDATE:05/18
